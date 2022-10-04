@@ -5,13 +5,9 @@ Quality Assurance Tester en <a href="https://www.migdal.com.mx/">Migdal Arquitec
 
 Me gusta aprender, y me encanta enseñar lo que se. He trabajado lado a lado con el usuario final como Soporte Técnico, en Sitio y Vía Remota. Soy paciente, considero que no hay preguntas tontas y que si quieres aprender, puedes hacer lo que sea. Me da por hablar en público y me preocupo por los demás. 
 
-El camino de la Informatica y la Computación me ha llevado a muchos lugares, a conocer todo tipo de personas y culturas, por lo que he aprendido mucho y rotado puestos que no pense desempeñar en algún momento. Comencé con Novell, Windows NT Server, Lotus Organizer, Cobol, Wordperfect y Gorila.BAS en QBasic :). 25 años en esta carrera suenan a mucho tiempo, pero pasan rápido y es padre no dejar de aprender, ya no es imposible como antes. Amo mi carrera y todo este mundo de la tecnología. Creo en GitHub y los que están aquí, porque no son como a quienes encuentras en Twitter, LinkedIn, o Facebook donde todos desestiman el conocimiento, la experiencia y circunstancias de las demás personas. Todos critican y no ayudan, y al final de eso se trata, de ser colaborativos y ayudar. 
+El camino de la Informatica y la Computación me ha llevado a muchos lugares, a conocer todo tipo de personas y culturas, por lo que he aprendido mucho y rotado puestos que no pense desempeñar en algún momento. Comencé con Novell, Windows NT Server, Lotus Organizer, Cobol, Wordperfect y Gorila.BAS en QBasic :). Creo en GitHub y los que están aquí, se trata de ser colaborativos y ayudar. 
 
 Podemos ser el Co-Pilot de alguien!
-
-Aprendi investigando, leyendo y a prueba y error, tiempo después decidi regalarme la experiencia de tener mi título como Ingeniero en Sistemas Computacionales, y hasta ahora todo va bien. Descubri el gusto por las ciencias exactas (nuunca lo hubiera pensado de niño).
-
-Soy muuuy neeeerd! ja, pero soy extrovertido, raro no?
 Pero bueno, al final de todo, sólo me resta decir:
 
 ¿Cómo puedo ayudar?
